@@ -1,0 +1,2423 @@
+fileFormatVersion: 2
+guid: 5a4b89778e3610f4d83f7aeadb9dbbcb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 320
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89d28e0b2bea47498d3e70fb1bd3432
+      internalID: -375402889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d7f620a008b9e49a13629091f5f3e1
+      internalID: 1731422169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbb294e9189665429795cfcb6c8564f
+      internalID: 159887461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d751ee0cdfa52e45adababfe1566689
+      internalID: -396420505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2ac77ecb44881439867268e2119070
+      internalID: 559558487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ceeb3c31c44294eb0cb66a29e7f389
+      internalID: -1523686511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8faff1c84a124348a8636ad5cfbc31c
+      internalID: 473408691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4da270176040574680f9d778b8a8e0a
+      internalID: 770524104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e9ca70fdcaf6243be79fb04481a6d0
+      internalID: -1898173251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bdcd5fcf182e94ba423763235e03cc
+      internalID: -1726377692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c489378bd8fa2e34d81c1a9709dfb944
+      internalID: -1464726720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317f02083defbaf4da8561544d6b8707
+      internalID: 998539505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 2380
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bea59a055d9c04691c7b006b972e6a
+      internalID: -743888641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408e6485e88152f4f89e65017a2c8062
+      internalID: -516951554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080e60aa27a6ee2498a725be1a2aa4c9
+      internalID: 1064264134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fb1cd742152d54bb1c3efaf99c9431
+      internalID: 1639130501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d622827872cfb4e977e972bdf32f1f
+      internalID: -851083044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506e562333fd2cd4ea93c494ac1bd3fe
+      internalID: 1237676126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a4129cbc4040c458fdb89855cd77f2
+      internalID: -1157405731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822d655880da23543b6db828328c3da0
+      internalID: 1583761588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49532f4d5ab53dc478d9b438216172f4
+      internalID: -623410512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4109abb2607dd30478b385acb1c132d4
+      internalID: -121516190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886f2518f554716458592167be8a5338
+      internalID: -86805219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a37239b355f6a4eba86a4abeab6175
+      internalID: 1356399503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfd832e2a9a08040b582b80097ecb20
+      internalID: 396133163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 2040
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef193b763ee5fa4a9abce92e8bd6805
+      internalID: -149265549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c63a2e404c85eb46ad7336bd5ff4d0b
+      internalID: 1842912691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44d47044f504064ea8fc4879a63a69a
+      internalID: 1523900724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aed3c1b4c89795479c2cf166d54723a
+      internalID: 1623912404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e4f0edf5fef66488d03a5d1abf7fe5
+      internalID: -1657102373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c674e0248290b714a9179066a0dc4091
+      internalID: -980863668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3089b5a960dbd094aa5caec350ea2677
+      internalID: 1808818142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149b70ed3dadef548ab0d8321f6a892b
+      internalID: 1572879271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eed57fb504b184c82d46089464b2e2
+      internalID: 1109275104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7223821ef5c2941b19bc47eb6ea423
+      internalID: -182959187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ae8b61ba506444dbc84225057f9277
+      internalID: 1827399366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7c38092545620458140bcb03eb1494
+      internalID: -1079425272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cba77ae4ae08b149a9a84f988606270
+      internalID: -1543054197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 1700
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df464c3ad59c9ca40bad655f70c0e421
+      internalID: -1542129229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8c6f9e241535142855ca17a7d5c096
+      internalID: -302692858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a40387078931f04989ebd2f784bdc14
+      internalID: 2098308870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c26d357dc1a0ea44999c5d291ee2e9e
+      internalID: 1755464142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211c20615204938418333910972afa14
+      internalID: 760895971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859f72959ba6ed2408c88a8707f10b03
+      internalID: -58204007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cab72c1cc1be3c4aa16af5fa67cbb29
+      internalID: -919073632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d8f74d438ccb74c8419147982c1d1f
+      internalID: 100574996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5728d8d08b01df4a853736536655de6
+      internalID: -525857472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345fac578ce1f894398eb3e7b77bcf81
+      internalID: -814324533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f5b99cc955f28448e19c392fea87e9
+      internalID: 563576869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803395086f60ff641a72b4c4502932c2
+      internalID: 1716104702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15c9610ce8347b47b21af35728c33d4
+      internalID: 995880711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 1360
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f654987d94017488a042a9c4069b92
+      internalID: 1304604083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88676ff0cca323b4c83d2435036a19d3
+      internalID: 2113694792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be00b0bb0b415424fb15e27ad542ae4a
+      internalID: 1418093345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48dd13eeac1779448ae885f242993d2
+      internalID: -1501642089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7c004b765e7864582dc92823523b69
+      internalID: 241646440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ae422edbfb13d40ad3f10a289425a6
+      internalID: 1011360146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08329015bcf5e9a408aa64851269ae33
+      internalID: 1975415586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a56aac45717aeb44afe40a6e3456f8b
+      internalID: 1865412254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e09f47479d3610428efe5babe050f44
+      internalID: -1713426992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb2e3edbce8ab64dabe5a11aaebd4fd
+      internalID: -1065376933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3730872a0ca7d0145b621c2381b81dbb
+      internalID: 1893935902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feb52824f5da894a83e481b3a34164b
+      internalID: -89596341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29bcf4a85120074e94dd6b07fdb9c57
+      internalID: -1545465370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 1020
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2d50080b5b2244c9c52ba36040c3f6
+      internalID: 833342265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24b5612ec5a3424dad6032081db8ae2
+      internalID: 598852824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 680
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db68eed6324863b4a9dd9424b297c639
+      internalID: -2004189341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 680
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3161eed86eeaf438b973a221ef03f9
+      internalID: 76604455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 680
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae304fad2c4611a4a802d2dd0ec1a2f6
+      internalID: 904185794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 680
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bd699d5f5ec0142a459d72d2cf04e8
+      internalID: 1736452628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 680
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0ab6b625184c04c81ad93e42d9df55
+      internalID: -1838557451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 680
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f4bb5ba65b98d49bf570685e6cec54
+      internalID: -319793118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 680
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741d93f3d8bd3ca42abab5f6e10147cc
+      internalID: -877263854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 680
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f850eb2e7ddd468d9f0fc7aac5029
+      internalID: 1190425738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 680
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28541f54c4f87a40a2bfe6542b52e43
+      internalID: -1220652142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 680
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4330fa42cc8cbf40901297388c52022
+      internalID: 898225964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 680
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b793e6ecc9194458628c57fdbf91a1
+      internalID: 809927908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 680
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ead17a4a70ebf48bfe074a2251baee
+      internalID: 447955108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cce1da9d9b29e4e814240911cd353f
+      internalID: 1304816868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 340
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802f92ac2a6fd6f4790b4bbc6e7cb081
+      internalID: 119494839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 340
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7ba9447ab72994081e90c282f96700
+      internalID: -1987976546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 340
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad05a5124204084da11aa3b77bac60b
+      internalID: -825897139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 340
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db0d02fb459aeb4c8ad7d471995dcf3
+      internalID: 276149500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 340
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dc2f283e0e3b04c94ea8adac4410ca
+      internalID: 1232479399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 340
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b98e0173dfb8de489d0663b91bf36b2
+      internalID: 1231905765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 340
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16318ab269d1c7c458735a528ffb3cb7
+      internalID: 1322100106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 340
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97092e7da13bd1c4cb721c1dc27f23ac
+      internalID: -1213648913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 340
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c800adbe1646f94daf4399308dfbaea
+      internalID: 622390042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 340
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f94eee6b0965a24f99f406cbc475410
+      internalID: -1772838943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 340
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bf89db82b86aa438752c0dc317c612
+      internalID: 1590432541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 340
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839a11821d55b47488928941d59a3759
+      internalID: -1758807420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ecedf0a890e354d92061e789b98606
+      internalID: 1779944123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398b6c586a01f284a8e14595528f8dcc
+      internalID: -701803122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827773bbe84b7fe4ca630896301dfec0
+      internalID: 361516281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7411dce39bb079f479890be69e0f9be7
+      internalID: 319071136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8a9cdc646a6144489648fe19b6cf9a
+      internalID: 1399986493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66df9ef0986495b4bbd2c48c2b608cac
+      internalID: -1513714702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a775f2e36198f40992e561162a88d4
+      internalID: -787134945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 0
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deed8b4a19c3d2942acbe8f3e4ae4d9f
+      internalID: -1763363172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 0
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8a425fd77974c4bbbe12e610cc0fe9
+      internalID: -1376231621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 0
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d1aa8de2c1fc747964878fc908437a
+      internalID: -1511589169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 0
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317a9217389696b439e684f30e910236
+      internalID: 714284523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 0
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249aadb2a9b09b54e806763ccc1975ad
+      internalID: -428028870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inkeeper_spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 0
+        width: 340
+        height: 340
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27beee55a6c65a45af8c61c4d90aaaf
+      internalID: -699585100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      inkeeper_spritesheet_0: -375402889
+      inkeeper_spritesheet_1: 1731422169
+      inkeeper_spritesheet_10: -1464726720
+      inkeeper_spritesheet_100: -1511589169
+      inkeeper_spritesheet_101: 714284523
+      inkeeper_spritesheet_102: -428028870
+      inkeeper_spritesheet_103: -699585100
+      inkeeper_spritesheet_11: 998539505
+      inkeeper_spritesheet_12: -743888641
+      inkeeper_spritesheet_13: -516951554
+      inkeeper_spritesheet_14: 1064264134
+      inkeeper_spritesheet_15: 1639130501
+      inkeeper_spritesheet_16: -851083044
+      inkeeper_spritesheet_17: 1237676126
+      inkeeper_spritesheet_18: -1157405731
+      inkeeper_spritesheet_19: 1583761588
+      inkeeper_spritesheet_2: 159887461
+      inkeeper_spritesheet_20: -623410512
+      inkeeper_spritesheet_21: -121516190
+      inkeeper_spritesheet_22: -86805219
+      inkeeper_spritesheet_23: 1356399503
+      inkeeper_spritesheet_24: 396133163
+      inkeeper_spritesheet_25: -149265549
+      inkeeper_spritesheet_26: 1842912691
+      inkeeper_spritesheet_27: 1523900724
+      inkeeper_spritesheet_28: 1623912404
+      inkeeper_spritesheet_29: -1657102373
+      inkeeper_spritesheet_3: -396420505
+      inkeeper_spritesheet_30: -980863668
+      inkeeper_spritesheet_31: 1808818142
+      inkeeper_spritesheet_32: 1572879271
+      inkeeper_spritesheet_33: 1109275104
+      inkeeper_spritesheet_34: -182959187
+      inkeeper_spritesheet_35: 1827399366
+      inkeeper_spritesheet_36: -1079425272
+      inkeeper_spritesheet_37: -1543054197
+      inkeeper_spritesheet_38: -1542129229
+      inkeeper_spritesheet_39: -302692858
+      inkeeper_spritesheet_4: 559558487
+      inkeeper_spritesheet_40: 2098308870
+      inkeeper_spritesheet_41: 1755464142
+      inkeeper_spritesheet_42: 760895971
+      inkeeper_spritesheet_43: -58204007
+      inkeeper_spritesheet_44: -919073632
+      inkeeper_spritesheet_45: 100574996
+      inkeeper_spritesheet_46: -525857472
+      inkeeper_spritesheet_47: -814324533
+      inkeeper_spritesheet_48: 563576869
+      inkeeper_spritesheet_49: 1716104702
+      inkeeper_spritesheet_5: -1523686511
+      inkeeper_spritesheet_50: 995880711
+      inkeeper_spritesheet_51: 1304604083
+      inkeeper_spritesheet_52: 2113694792
+      inkeeper_spritesheet_53: 1418093345
+      inkeeper_spritesheet_54: -1501642089
+      inkeeper_spritesheet_55: 241646440
+      inkeeper_spritesheet_56: 1011360146
+      inkeeper_spritesheet_57: 1975415586
+      inkeeper_spritesheet_58: 1865412254
+      inkeeper_spritesheet_59: -1713426992
+      inkeeper_spritesheet_6: 473408691
+      inkeeper_spritesheet_60: -1065376933
+      inkeeper_spritesheet_61: 1893935902
+      inkeeper_spritesheet_62: -89596341
+      inkeeper_spritesheet_63: -1545465370
+      inkeeper_spritesheet_64: 833342265
+      inkeeper_spritesheet_65: 598852824
+      inkeeper_spritesheet_66: -2004189341
+      inkeeper_spritesheet_67: 76604455
+      inkeeper_spritesheet_68: 904185794
+      inkeeper_spritesheet_69: 1736452628
+      inkeeper_spritesheet_7: 770524104
+      inkeeper_spritesheet_70: -1838557451
+      inkeeper_spritesheet_71: -319793118
+      inkeeper_spritesheet_72: -877263854
+      inkeeper_spritesheet_73: 1190425738
+      inkeeper_spritesheet_74: -1220652142
+      inkeeper_spritesheet_75: 898225964
+      inkeeper_spritesheet_76: 809927908
+      inkeeper_spritesheet_77: 447955108
+      inkeeper_spritesheet_78: 1304816868
+      inkeeper_spritesheet_79: 119494839
+      inkeeper_spritesheet_8: -1898173251
+      inkeeper_spritesheet_80: -1987976546
+      inkeeper_spritesheet_81: -825897139
+      inkeeper_spritesheet_82: 276149500
+      inkeeper_spritesheet_83: 1232479399
+      inkeeper_spritesheet_84: 1231905765
+      inkeeper_spritesheet_85: 1322100106
+      inkeeper_spritesheet_86: -1213648913
+      inkeeper_spritesheet_87: 622390042
+      inkeeper_spritesheet_88: -1772838943
+      inkeeper_spritesheet_89: 1590432541
+      inkeeper_spritesheet_9: -1726377692
+      inkeeper_spritesheet_90: -1758807420
+      inkeeper_spritesheet_91: 1779944123
+      inkeeper_spritesheet_92: -701803122
+      inkeeper_spritesheet_93: 361516281
+      inkeeper_spritesheet_94: 319071136
+      inkeeper_spritesheet_95: 1399986493
+      inkeeper_spritesheet_96: -1513714702
+      inkeeper_spritesheet_97: -787134945
+      inkeeper_spritesheet_98: -1763363172
+      inkeeper_spritesheet_99: -1376231621
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

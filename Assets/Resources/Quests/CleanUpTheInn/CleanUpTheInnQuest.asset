@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7352451d476dda40b2d1a19166708c4, type: 3}
+  m_Name: CleanUpTheInnQuest
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: CleanUpTheInnQuest
+  displayName: Clean Up The Inn!
+  levelRequiriment: 0
+  innMustBeUnclean: 1
+  gramophoneMustBeOff: 0
+  questPrerequisites: []
+  questStepPrefabs:
+  - {fileID: 1662518942103755096, guid: e2de5dc5e54ec2641987bfcb4c763cff, type: 3}
+  goldReward: 50
+  soulPowerReward: 0

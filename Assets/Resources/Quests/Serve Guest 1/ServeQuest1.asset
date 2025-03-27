@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7352451d476dda40b2d1a19166708c4, type: 3}
+  m_Name: ServeQuest1
+  m_EditorClassIdentifier: 
+  <id>k__BackingField: ServeQuest1
+  displayName: 
+  levelRequiriment: 0
+  innMustBeUnclean: 0
+  gramophoneMustBeOff: 0
+  questPrerequisites: []
+  questStepPrefabs:
+  - {fileID: 8973955480656552749, guid: 874f1418282bd8d47b3c64c1ad929e1f, type: 3}
+  goldReward: 25
+  soulPowerReward: 0
