@@ -53,6 +53,5 @@ VAR quest_state = 0
 
 === beer ===
 #speaker:Вечный Курильщик #layout:text_name_right
-Ух, какой горячий...
-...чай...
+Какой наваристый чай
 -> END

@@ -15,11 +15,11 @@ VAR quest_state = 0
 
 === quest_not_start ===
 #speaker:Усатый Скала #layout:text_name_right
-Эх, пивка бы сейчас
+Эх, пивка бы сейчас холодненького
 
 #speaker:Трактирщик #layout:text_name_left
 ~ start_quest()
-Я вас услышал!
+Я вас услышал
 
 -> END
 
@@ -37,9 +37,9 @@ VAR quest_state = 0
 + [*подать пиво*]
     #speaker:Трактирщик #layout:text_name_left
     ~ serve_guest()
-    Вот ваше пиво!
+    Вот ваше пиво
     #speaker:Усатый Скала #layout:text_name_right
-    Ну и ссанина конечно
+    Вкус конечно отвратительный
     Эх. Раз уж отпил, на свои деньги
     -> END
 + [Ещё не готово]
@@ -54,5 +54,5 @@ VAR quest_state = 0
 
 === beer ===
 #speaker:Усатый Скала #layout:text_name_right
-Больше никогда сюда не зайду
+Больше никогда не закажу здесь пива
 -> END
